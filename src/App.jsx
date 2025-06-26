@@ -11,6 +11,8 @@ function App() {
   //useRef hook
   const passwordRef = useRef(null)
 
+  asdasdasd
+
   const passwordGenerator = useCallback(() => {
     let pass = ""
     let str = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
